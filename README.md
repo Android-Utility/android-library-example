@@ -29,7 +29,7 @@
 
 1. 프로젝트의 build.gradle에 다음과 같은 코드를 추가한다
     
-    `maven { url "[https://jitpack.io](https://jitpack.io/)" }`
+    `maven { url "https://jitpack.io/" }`
     
 2. [https://jitpack.io/](https://jitpack.io/에서) 에서 해당 라이브러리의 implementation 코드를 제공받을 수 있다
 
